@@ -1,6 +1,6 @@
 # Todo Application Project
 
-A modern, fully-featured Todo application built with React that showcases frontend engineering skills. This project demonstrates the ability to work with APIs, implement React patterns, handle routing, and create accessible user interfaces.
+A modern, fully-featured Todo application built with React that showcases my frontend engineering skills. This project demonstrates the ability to work with APIs, implement React patterns, handle routing, and create accessible user interfaces.
 
 ## Project Overview
 
